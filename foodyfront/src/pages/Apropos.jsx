@@ -83,7 +83,7 @@ export default function Apropos() {
                 <p className="text-center">Livreurs partenaires</p>
               </div>
             </div>
-
+            
             <h2 className="text-2xl font-bold text-red-600 mb-4">Nos Valeurs</h2>
             <ul className="list-disc pl-6 mb-6 space-y-2">
               <li><strong>Qualité :</strong> Nous sélectionnons soigneusement nos restaurants partenaires pour vous offrir les meilleurs plats.</li>
@@ -95,8 +95,8 @@ export default function Apropos() {
 
             <h2 className="text-2xl font-bold text-green-700 mb-4">Notre Équipe</h2>
             <p className="mb-6">
-              FOODY RESERV est portée par une équipe dynamique et passionnée. Nos collaborateurs partagent un objectif commun :
-              vous offrir la meilleure expérience culinaire possible. Du développement web à la livraison, chaque membre de notre équipe
+              FOODY RESERV est portée par une équipe dynamique et passionnée. Nos collaborateurs partagent un objectif commun : 
+              vous offrir la meilleure expérience culinaire possible. Du développement web à la livraison, chaque membre de notre équipe 
               contribue à faire de FOODY RESERV le service de livraison préféré des Dakarois.
             </p>
           </div>

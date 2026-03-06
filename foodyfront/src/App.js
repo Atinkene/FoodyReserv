@@ -4,6 +4,7 @@ import ManagerLayout from './layouts/ManagerLayout';
 import LivreurLayout from './layouts/LivreurLayout';
 import { useEffect, useState } from 'react';
 import { getUserRole } from './utils/auth'; // à créer pour décoder le JWT ou appeler l'API
+import { useState, useEffect } from 'react';
 import HomePage from './pages/HomePage';
 import Register from './pages/Register';
 import Login from './pages/Login';
